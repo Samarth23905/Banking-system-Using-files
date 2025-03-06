@@ -1,3 +1,5 @@
+//This is a simple bannking system using structures
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
